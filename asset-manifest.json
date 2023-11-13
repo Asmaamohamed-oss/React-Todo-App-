@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Asmaamohamed-oss.github.io/React-Todo-App/static/css/main.922203a6.css",
-    "main.js": "/Asmaamohamed-oss.github.io/React-Todo-App/static/js/main.0aa4d00f.js",
-    "index.html": "/Asmaamohamed-oss.github.io/React-Todo-App/index.html",
-    "main.922203a6.css.map": "/Asmaamohamed-oss.github.io/React-Todo-App/static/css/main.922203a6.css.map",
-    "main.0aa4d00f.js.map": "/Asmaamohamed-oss.github.io/React-Todo-App/static/js/main.0aa4d00f.js.map"
+    "main.css": "/React-Todo-App-/static/css/main.922203a6.css",
+    "main.js": "/React-Todo-App-/static/js/main.0aa4d00f.js",
+    "index.html": "/React-Todo-App-/index.html",
+    "main.922203a6.css.map": "/React-Todo-App-/static/css/main.922203a6.css.map",
+    "main.0aa4d00f.js.map": "/React-Todo-App-/static/js/main.0aa4d00f.js.map"
   },
   "entrypoints": [
     "static/css/main.922203a6.css",
