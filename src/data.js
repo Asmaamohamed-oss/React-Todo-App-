@@ -13,7 +13,7 @@ function initialTodos(){
   return[
     createTodos("Redux Frist Steps", true),
     createTodos("Redux From scratch",false),
-    createTodos("Redux Toolkit", false),
+    createTodos("Redux Toolkit", true),
   ]
 }
 
