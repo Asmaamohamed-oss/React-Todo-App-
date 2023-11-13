@@ -1,0 +1,31 @@
+body{
+  background-color: #e4e4e4 !important;
+}
+
+ul{
+  list-style: none;
+}
+.todo{
+  background-color: #fafafa;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+  border-radius: 5px;
+}
+
+.todo.complete span{
+  text-decoration: line-through;
+}
+
+input[type="checkbox"]{
+  margin-right: 5px;
+
+}
+.todo span{
+  flex: 1;
+  color: #555;
+  font-weight: 600;
+  /* padding: 10px; */
+  /* width: 50px; */
+}
