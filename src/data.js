@@ -11,7 +11,7 @@ function createTodos(title,complete=false){
 
 function initialTodos(){
   return[
-    createTodos("Redux First Steps", true),
+    createTodos("Redux Frist Steps", true),
     createTodos("Redux From scratch",false),
     createTodos("Redux Toolkit", false),
   ]
