@@ -12,7 +12,7 @@ function createTodos(title,complete=false){
 function initialTodos(){
   return[
     createTodos("Redux Frist Steps", true),
-    createTodos("Redux From scratch",false),
+    createTodos("Redux From scratch",true),
     createTodos("Redux Toolkit", false),
   ]
 }
